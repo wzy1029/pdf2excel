@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.env
+.venv
+env/
+*.xlsx
+*.pdf
+
+# macOS
+.DS_Store
