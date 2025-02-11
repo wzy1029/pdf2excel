@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 # Set the directory path
-directory = '/Users/isy/Downloads/'
+directory = 'input'
 
 # Get all PDF files in the directory
 pdf_files = [f for f in os.listdir(directory) if f.endswith('.pdf')]
